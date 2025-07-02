@@ -1,0 +1,29 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Node modules
+node_modules/
+
+# Environment files
+.env
+**/.env
+
+# Virtual env
+venv/
+env/
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# SQLite DBs
+*.mysql
+db.mysql
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Ignore Excel files
+*.xls
